@@ -1,5 +1,3 @@
-using System.ComponentModel.DataAnnotations;
-
 namespace efass2.DTOs.Product;
 
 public class UpdateProductResponse
