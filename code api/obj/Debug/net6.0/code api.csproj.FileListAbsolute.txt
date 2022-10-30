@@ -1,0 +1,27 @@
+C:\Users\popo\Desktop\code api\obj\Debug\net6.0\code api.csproj.AssemblyReference.cache
+C:\Users\popo\Desktop\code api\obj\Debug\net6.0\code api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\popo\Desktop\code api\obj\Debug\net6.0\code api.AssemblyInfoInputs.cache
+C:\Users\popo\Desktop\code api\obj\Debug\net6.0\code api.AssemblyInfo.cs
+C:\Users\popo\Desktop\code api\obj\Debug\net6.0\code api.csproj.CoreCompileInputs.cache
+C:\Users\popo\Desktop\code api\obj\Debug\net6.0\code api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\popo\Desktop\code api\obj\Debug\net6.0\code api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\popo\Desktop\code api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\popo\Desktop\code api\bin\Debug\net6.0\appsettings.json
+C:\Users\popo\Desktop\code api\bin\Debug\net6.0\code api.exe
+C:\Users\popo\Desktop\code api\bin\Debug\net6.0\code api.deps.json
+C:\Users\popo\Desktop\code api\bin\Debug\net6.0\code api.runtimeconfig.json
+C:\Users\popo\Desktop\code api\bin\Debug\net6.0\code api.dll
+C:\Users\popo\Desktop\code api\bin\Debug\net6.0\code api.pdb
+C:\Users\popo\Desktop\code api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\popo\Desktop\code api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\popo\Desktop\code api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\popo\Desktop\code api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\popo\Desktop\code api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\popo\Desktop\code api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\popo\Desktop\code api\obj\Debug\net6.0\scopedcss\bundle\code api.styles.css
+C:\Users\popo\Desktop\code api\obj\Debug\net6.0\code api.csproj.CopyComplete
+C:\Users\popo\Desktop\code api\obj\Debug\net6.0\code api.dll
+C:\Users\popo\Desktop\code api\obj\Debug\net6.0\refint\code api.dll
+C:\Users\popo\Desktop\code api\obj\Debug\net6.0\code api.pdb
+C:\Users\popo\Desktop\code api\obj\Debug\net6.0\code api.genruntimeconfig.cache
+C:\Users\popo\Desktop\code api\obj\Debug\net6.0\ref\code api.dll
